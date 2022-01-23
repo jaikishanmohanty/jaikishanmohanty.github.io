@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jaikishanmohanty/jaikishanmohanty.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--
+**JaikishanMohanty/JaikishanMohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Markdown
+Here are some ideas to get you started:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+![Header](https://keep-calm.net/images/keep-calm-and-continue-testing-851-315-white-blue.jpg)
 
-```markdown
-Syntax highlighted code block
+# Hello folks!👋
 
-# Header 1
-## Header 2
-### Header 3
+My name is Jaikishan Mohanty. I am a Software QA engineer and Content creator. I am from india, living in Uttar Pradesh and working at BOLD Technology Pvt. Ltd.
 
-- Bulleted
-- List
+## &#x270d; Content Creation and Vlogging
 
-1. Numbered
-2. List
+Apart from testing , I also make QA related videos. You can check the out on LinkedIn & Youtube.
 
-**Bold** and _Italic_ and `Code` text
+## 🔧 Langueages & Tools
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Java_20131025_1864663017.jpg" alt="java" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png' alt="selenium" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png' height='30' width='auto' alt="postman">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="40" height="40"/>
+</p>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## 🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/jaikishan-mohanty-a93986166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaikishan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mohantyacademy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="mohantyAcademy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jaikishan_thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaikishanThakur" height="30" width="40" /></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaikishanmohanty/jaikishanmohanty.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1.1]: https://i.imgur.com/Vahbdkj.png (linkedin icon)
