@@ -1,1 +1,11 @@
+title: Jaikishan Mohanty # your name (or website title) here
+logo: "/profile-pic.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ QA Engineer
+  <br><br>
+  <a href="mailto:jaikishanmohanty@gmail.com">jaikishanmohanty@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/jaikishan-mohanty-a93986166/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/jaikishanmohanty/">Gihub</a> 
 theme: jekyll-theme-minimal
